@@ -4,6 +4,7 @@ K-means clustering for twitter marketing data. Created in collaboration with Sch
 
 # Citation
 If you reference this content, please site:
+
 Garcia, P. and Martin, S. Twitter k-means influencers. Github repository. https://github.com/paulaux/twitter-kmeans-influencers
 
 # Requirements 
